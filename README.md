@@ -14,7 +14,7 @@
 - Пример: /t этО ПриМер Не правиЛЬНОй стРоки, Где После заПятой, Маленькие БУКвы. а после точки бОЛЬШИЕ!
 - Ответ: Это пример не правильной строки, где после запятой, маленькие буквы. А после точки большие!
 
-#
+background.py - если нужно поднять свой сервер (на фласке) и развернуть например на реплите.
 
 # 🤗 Welcome! 🤗
 Telegram bot written to help you with your work.
@@ -31,3 +31,5 @@ Quote, reply or swipe a message on your phone and enter the time in 12:30 format
 ### To transform text, enter a sentence after /t
 - Example: /t THIS IS AN EXAMPLE OF WRONG LINE, WHERE AFTER THE COMMA, SMALL LETTERS. and after the dots are BIG!
 - Answer: This is an example of an incorrect line, where there are small letters after the comma. And after that there are big dots!
+
+background.py - if you need to raise your server (on a flask) and deploy it, for example, on a replit.
