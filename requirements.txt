@@ -1,0 +1,7 @@
+aiogram==3.0.0
+python-dotenv==1.0.0
+pytz==2023.3.post1
+requests==2.31.0
+timezonefinder==6.2.0
+
+flask~=2.3.3
